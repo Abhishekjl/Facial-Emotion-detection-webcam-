@@ -1,5 +1,5 @@
 # Facial-Emotion-detection-webcam-
 Live Footage using webcam
 
-![Demo File](facial emotion.gif)
+![Demo File](sample/facial emotion1.gif)
 
